@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="app_cps/CPSMasker/_internal/CPSMasker/resources/gfx/images/CPS_Masker.png" alt="Demo GIF" width="800">
+  <img src="image/CPS_Masker.png" alt="CPS" width="800">
 </p>
 
 ##  Disclaimer
