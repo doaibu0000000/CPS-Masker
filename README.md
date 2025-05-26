@@ -1,13 +1,10 @@
-![](https://github.com/doaibu0000000/CPS-Masker/blob/main/image/CPS_Masker.png )
 <h1 align="center">CPS Masker</h1>
 
 <p align="center">
   CPS Masker menghadirkan teknologi masker  wajah secara real-time. Memanfaatkan kecerdasan buatan, ciptakan efek visual mutakhir dengan mulus dalam hitungan detik.
 </p>
 
-<p align="center">
-  <img src="image/CPS_Masker.png" alt="CPS" width="800">
-</p>
+![](https://github.com/doaibu0000000/CPS-Masker/blob/main/image/CPS_Masker.png )
 
 ##  Disclaimer
 
