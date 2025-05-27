@@ -1,0 +1,19 @@
+[0526/130401.649:VERBOSE1:..\src\chrome\installer\setup\setup_main.cc:1447] Command Line: "C:\Program Files\BraveSoftware\Brave-Browser\Application\136.1.78.102\Installer\chrmstp.exe" --configure-user-settings --verbose-logging --system-level --force-configure-user-settings
+[0526/130401.651:VERBOSE1:..\src\chrome\installer\setup\setup_main.cc:1453] system install is 1
+[0526/130401.657:VERBOSE1:chrome\installer\setup\installer_state.cc:87] Install Chrome
+[0526/130401.677:VERBOSE1:chrome\installer\util\install_util.cc:249] Windows NT 10.0.19045
+[0526/130401.678:VERBOSE1:..\src\chrome\installer\setup\install_worker.cc:1116] Adding unregistration items for per-user Metro keys.
+[0526/130401.679:VERBOSE1:chrome\installer\util\work_item_list.cc:32] Beginning execution of work item list Cleanup deprecated per-user registrations
+[0526/130401.679:VERBOSE1:chrome\installer\util\registry_util.cc:23] Deleting registry key Software\BraveSoftware\Brave-Browser\Metro
+[0526/130401.679:VERBOSE1:chrome\installer\util\registry_util.cc:23] Deleting registry key Software\BraveSoftware\Brave-Browser\Metro
+[0526/130401.679:VERBOSE1:chrome\installer\util\work_item_list.cc:53] Successful execution of work item list Cleanup deprecated per-user registrations
+[0526/130401.688:VERBOSE1:chrome\installer\setup\install.cc:535] Launching ""C:\Program Files\BraveSoftware\Brave-Browser\Application\136.1.78.102\Installer\chrmstp.exe" --system-level --verbose-logging --installerdata="C:\Program Files\BraveSoftware\Brave-Browser\Application\initial_preferences" --create-shortcuts=1 --install-level=0" to create shortcuts
+[0526/130401.696:VERBOSE1:..\src\chrome\installer\setup\setup_main.cc:1447] Command Line: "C:\Program Files\BraveSoftware\Brave-Browser\Application\136.1.78.102\Installer\chrmstp.exe" --system-level --verbose-logging --installerdata="C:\Program Files\BraveSoftware\Brave-Browser\Application\initial_preferences" --create-shortcuts=1 --install-level=0
+[0526/130401.696:VERBOSE1:..\src\chrome\installer\setup\setup_main.cc:1453] system install is 1
+[0526/130401.700:VERBOSE1:chrome\installer\setup\installer_state.cc:87] Install Chrome
+[0526/130401.710:VERBOSE1:chrome\installer\util\install_util.cc:249] Windows NT 10.0.19045
+[0526/130401.712:VERBOSE1:chrome\installer\setup\install.cc:119] Creating per-user Desktop "Brave" shortcut to C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe.
+[0526/130401.726:VERBOSE1:chrome\installer\setup\install.cc:119] Creating per-user Quick Launch "Brave" shortcut to C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe.
+[0526/130401.738:ERROR:base\metrics\persistent_histogram_storage.cc:157] Persistent histograms fail to write to file: C:\Program Files\BraveSoftware\Brave-Browser\Application\SetupMetrics\132856_13392713041734637.pma
+[0526/130401.740:VERBOSE1:chrome\installer\setup\install.cc:551] Shortcut creation process succeeded.
+[0526/130401.750:ERROR:base\metrics\persistent_histogram_storage.cc:157] Persistent histograms fail to write to file: C:\Program Files\BraveSoftware\Brave-Browser\Application\SetupMetrics\97912_13392713041746468.pma
